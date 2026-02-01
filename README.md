@@ -1,5 +1,9 @@
-<h1 align="center">Hi there, I'm Lyousef! 👋</h1>
-<h3 align="center">A passionate developer building things for the web.</h3>
+<h1 align="center">Hi there, I'm Yousef Nasser! 👋</h1>
+<h3 align="center">Artificial Intelligence Student 🤖</h3>
+
+<p align="center">
+  🎓 Fourth-year student at <strong>Kafr El-Sheikh University</strong>
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=lyousef0&label=Profile%20Views&color=0e75b6&style=flat" alt="lyousef0" />
@@ -9,23 +13,25 @@
 
 ### 🧐 About Me
 
-- 🔭 I’m currently working on **Awesome Projects**
-- 🌱 I’m currently learning **Advanced Frameworks & Tools**
-- 👯 I’m looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **Coding, Tech, and Video Games**
-- 📫 How to reach me: **[Add your email here]**
+- 🔭 I’m currently a **Fourth-year AI Student**
+- 🌱 I’m currently learning **Deep Learning & Computer Vision**
+- 👯 I’m looking to collaborate on **AI & Machine Learning Projects**
+- 🏛️ University: **Kafr El-Sheikh University**
+- ⚡ Fun fact: **I love turning data into insights.**
 
 ---
 
-### 🛠️ Languages and Tools
+### 🛠️ AI & Data Science Stack
 
 <p align="left"> 
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="js"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="tensorflow"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="pytorch"/>
+  <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="numpy"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="c++"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white" alt="jupyter"/>
 </p>
 
 ---

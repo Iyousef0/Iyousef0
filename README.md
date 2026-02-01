@@ -32,15 +32,15 @@
 
 
 
-It all started with a simple, persistent question: **"How can machines actually think?"** As a student at **Kafr El-Sheikh University**, I didn't just want to learn how to code; I wanted to understand how data could breathe life into logic. My journey began with simple scripts, but quickly evolved into a deep fascination with the intersection of **Biology and Artificial Intelligence**. 
+It all started with a simple, persistent question: *"How can machines actually think?"* As a student at *Kafr El-Sheikh University, I didn't just want to learn how to code; I wanted to understand how data could breathe life into logic. My journey began with simple scripts, but quickly evolved into a deep fascination with the intersection of **Biology and Artificial Intelligence*. 
 
 
 
-[cite_start]To sharpen my technical edge, I completed an intensive **265+ hour Machine Learning & AI Diploma** at AMIT. This journey allowed me to bridge the gap between complex mathematical theories and real-world impact. Whether I’m training a **Deep Learning** model to detect patterns in medical signals or building a high-performance **Web Application** using React and TypeScript, my focus remains the same: **Building intelligent tools that solve human problems.**
+[cite_start]To sharpen my technical edge, I completed an intensive *265+ hour Machine Learning & AI Diploma* at AMIT. This journey allowed me to bridge the gap between complex mathematical theories and real-world impact. Whether I’m training a *Deep Learning* model to detect patterns in medical signals or building a high-performance *Web Application* using React and TypeScript, my focus remains the same: *Building intelligent tools that solve human problems.*
 
 
 
-Today, I’m specializing in **Computer Vision** and **NLP**, constantly pushing the boundaries of what's possible. From developing robust backend systems with **Flask** and **Node.js** to designing predictive models that can interpret complex biological data, I turn "impossible" challenges into meaningful, user-centric insights.
+Today, I’m specializing in *Computer Vision* and *NLP, constantly pushing the boundaries of what's possible. From developing robust backend systems with **Flask* and *Node.js* to designing predictive models that can interpret complex biological data, I turn "impossible" challenges into meaningful, user-centric insights.
 
 
 
@@ -100,15 +100,15 @@ Today, I’m specializing in **Computer Vision** and **NLP**, constantly pushing
 
 ### 🚀 Key Projects & Expertise
 
-- 🔐 **Secure-Sign:** Signature Verification systems using Deep Learning (CNNs).
+- 🔐 *Secure-Sign:* Signature Verification systems using Deep Learning (CNNs).
 
-- 🏥 **Bio-Intelligence:** Analyzing physiological signals (ECG/EMG) for health metrics.
+- 🏥 *Bio-Intelligence:* Analyzing physiological signals (ECG/EMG) for health metrics.
 
-- [cite_start]📉 **Predictive Analytics:** Credit Risk Prediction and Housing Price Analysis[cite: 218, 219].
+- [cite_start]📉 *Predictive Analytics:* Credit Risk Prediction and Housing Price Analysis[cite: 218, 219].
 
-- [cite_start]🛒 **Data Insights:** E-commerce data cleanup and Market Basket Analysis[cite: 215, 216].
+- [cite_start]🛒 *Data Insights:* E-commerce data cleanup and Market Basket Analysis[cite: 215, 216].
 
-- [cite_start]⚡ **MLOps:** Deploying and managing machine learning lifecycles[cite: 206].
+- [cite_start]⚡ *MLOps:* Deploying and managing machine learning lifecycles[cite: 206].
 
 
 

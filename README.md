@@ -11,15 +11,20 @@
 
 ---
 
-### 🧐 About Me
-
-- 🔭 I’m currently a **Fourth-year AI Student**
-- 🌱 I’m currently learning **Deep Learning & Computer Vision**
-- 👯 I’m looking to collaborate on **AI & Machine Learning Projects**
-- 🏛️ University: **Kafr El-Sheikh University**
-- ⚡ Fun fact: **I love turning data into insights.**
+###  About Me
 
 ---
+
+
+My fascination with technology started with a simple question: *How can machines think?* This curiosity led me to **Kafr El-Sheikh University**, where I am currently in my **fourth year of studying Artificial Intelligence**. What began as writing simple lines of code evolved into a passion for building intelligent systems and solving complex problems with data.
+
+Throughout my academic journey, I’ve bridged the gap between theoretical math and practical implementation. Whether I'm training a **Deep Learning** model or building a responsive **Web Application**, I focus on creating tools that are both smart and user-centric. 
+
+Right now, I’m deep-diving into **Computer Vision** and **Natural Language Processing**, constantly looking for the next challenge to turn "impossible" data into meaningful insights.
+
+---
+
+
 
 
 ### My Tech Arsenal
